@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BankAccountsNamespace.AboutProgram" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>AboutProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.AboutUs" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAEAAAABAAAA=</HashCode>
+      <FileName>AboutUs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.Account">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAMAAAAAAAgAAAAkAACIIAAAghIAAQIQBAgAAAAI=</HashCode>
+      <FileName>Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.AccountsList" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAUGggCAoABIEEACAACAiAAgaAAAEUHAAAgACBAA=</HashCode>
+      <FileName>AccountsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.BankAccount" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>BankAccounts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.Client">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.ClientLogin" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACAACAAABAAAACAACBiIAgoAAAAEEAAAgEAAAA=</HashCode>
+      <FileName>ClientLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.ClientsList" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAIgAgCAQCAiggEIAAAAAFAAIAgAgIA=</HashCode>
+      <FileName>ClientsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.Company">
+    <Position X="12.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAQAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.CreateNewAccount" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EJASA1CQAXEABUNESACAAyMyBQgLAQNIQtAAIUQioAM=</HashCode>
+      <FileName>CreateNewAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.CreateNewClient" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EpAAAkAQAWEAAAIACACAASEiBQAZAQEAAnAAAUAAAAA=</HashCode>
+      <FileName>CreateNewClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.DeleteAccount" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAACBAAAACAAAAiAAgYAAAAAGAAAAAQAAA=</HashCode>
+      <FileName>DeleteAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.DeleteClient" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAAECAAAAIAAACAACAyAAAYAAAAAnAAAAAAgAA=</HashCode>
+      <FileName>DeleteClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.DepositAccount">
+    <Position X="0.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>DepositAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.DepositInAccount" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAABACAACAAAAiAAgYAAAAAGAAAAAEAAA=</HashCode>
+      <FileName>DepositInAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.DrowFromAccount" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABACAACAAAAiAAAYAAAAAGAAAAAEAAA=</HashCode>
+      <FileName>DrowFromAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.EditClient" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAIAAgCAABAMAKAiEYIAyAQABgAAAAAAAAACBAAA=</HashCode>
+      <FileName>EditClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.EditCompany" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAIAAgCAABAMAIICkICASAAAAAAAAAAAAADABAAA=</HashCode>
+      <FileName>EditCompany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.Individual">
+    <Position X="9" Y="6" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="BankAccountsNamespace.Individual.sexEnum" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Individual.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABARAAAAEQAAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Individual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.LoanAccount">
+    <Position X="5.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAI=</HashCode>
+      <FileName>LoanAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.MainForm" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oSACAACJBCUADIEAMAzYEGEiKQ8DAI5EEMARAIAARME=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.MortgageAccount">
+    <Position X="3" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAgAAAAIAAAAAAAAAAgAAAAI=</HashCode>
+      <FileName>MortgageAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.PrintMortgage" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAACAgCBUQAADAAAACAAA4AAIAAGAAAACAAAA=</HashCode>
+      <FileName>PrintMortgage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.Query" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wAAAACQACAAABAAAACAACAiAAgAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Query.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.Properties.Resources" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccountsNamespace.Properties.Settings" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

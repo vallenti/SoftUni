@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>01.StringExtentionDocumentation</name>
+    </assembly>
+    <members>
+        <member name="T:StringExtensions">
+            <summary>
+            Class containg String extentions
+            </summary>
+        </member>
+        <member name="M:StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Converts string to MD5 hash
+            </summary>
+            <param name="input">String to be converted</param>
+            <returns>Converted to MD5 hash string</returns>
+        </member>
+        <member name="M:StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Converts string to boolean
+            </summary>
+            <param name="input">String to be converted</param>
+            <returns>Coverted boolean representation of the <paramref name="input"/></returns>
+        </member>
+        <member name="M:StringExtensions.ToShort(System.String)">
+            <summary>
+            Converts string to number of type short
+            </summary>
+            <param name="input">String to be converted</param>
+            <returns>Coverted short representation of the <paramref name="input"/></returns>
+        </member>
+        <member name="M:StringExtensions.ToInteger(System.String)">
+            <summary>
+            Converts string to number of type integer
+            </summary>
+            <param name="input">String to be converted</param>
+            <returns>Coverted integer representation of the <paramref name="input"/></returns>
+        </member>
+        <member name="M:StringExtensions.ToLong(System.String)">
+            <summary>
+            Converts string to number of type long
+            </summary>
+            <param name="input">String to be converted</param>
+            <returns>Coverted long representation of the <paramref name="input"/></returns>
+        </member>
+        <member name="M:StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Converts string to DateTime object
+            </summary>
+            <param name="input">String to be converted</param>
+            <returns>Coverted object of type DateTime</returns>
+        </member>
+        <member name="M:StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Capitalize first letter of string
+            </summary>
+            <param name="input">The string which first letter will be capitalized</param>
+            <returns>String with capitalized first letter</returns>
+        </member>
+        <member name="M:StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Gets a substring that is between two other strings
+            </summary>
+            <param name="input">String that will be processed</param>
+            <param name="startString">Start string that sets begining of the new substring</param>
+            <param name="endString">End string that sets end of the new substring</param>
+            <param name="startFrom">The search starting position</param>
+            <returns>Substring that is between <paramref name="startString"/> and <paramref name="endString"/></returns>
+        </member>
+        <member name="M:StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            Converts a string of cyrilic letter to a new instance of string with latil leters
+            </summary>
+            <param name="input">String to be converted</param>
+            <returns>Converted string with latin letters</returns>
+        </member>
+        <member name="M:StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            Converts latin letters in string to a cyrilic letters
+            </summary>
+            <param name="input">String with latin letters to be converted</param>
+            <returns>Converted string with cyrilic letters</returns>
+        </member>
+        <member name="M:StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Converts string to a valid username. Valid username can contains only letters, digits, underscores and dots
+            </summary>
+            <param name="input">String to be validated</param>
+            <returns>Valid string that can be used for username</returns>
+        </member>
+        <member name="M:StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Converts a string to a valid latin letters file name.Valid file name contains only letters, digits, dots and dashes
+            </summary>
+            <param name="input">String to be converted</param>
+            <returns>Valid string that can be used for filename</returns>
+        </member>
+        <member name="M:StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Gets substring with first characters of a string
+            </summary>
+            <param name="input">String that will be processed</param>
+            <param name="charsCount">Number of characters to be returned</param>
+            <returns>Substring from first <paramref name="charsCount"/> characters</returns>
+        </member>
+        <member name="M:StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            Gets the file extention of a file
+            </summary>
+            <param name="fileName">Filename to check its extention</param>
+            <returns>File extention of a <paramref name="fileName"/></returns>
+        </member>
+        <member name="M:StringExtensions.ToContentType(System.String)">
+            <summary>
+            Converts file extention to ContentType
+            </summary>
+            <param name="fileExtension">File extention to be converted</param>
+            <returns>ContentType as string for file extention</returns>
+        </member>
+        <member name="M:StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Converts string to array of bytes
+            </summary>
+            <param name="input">string to be converted</param>
+            <returns>Coverted byte array representation of the <paramref name="input"/></returns>
+        </member>
+    </members>
+</doc>

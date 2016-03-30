@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="700.0" xmlns:fx="http://javafx.com/fxml" xmlns="http://javafx.com/javafx/2.2" fx:controller="pingponggame.PingPongController">
+  <children>
+    <Pane fx:id="pane" layoutX="0.0" layoutY="0.0" maxWidth="-1.0" onKeyPressed="#moveFirstPlayer" prefHeight="400.0" prefWidth="700.0">
+      <children>
+        <Rectangle fx:id="firstPlayerPad" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="14.0" layoutY="164.0" stroke="BLACK" strokeType="INSIDE" width="20.0" />
+        <Rectangle fx:id="secondPlayerPad" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="654.0" layoutY="69.0" stroke="BLACK" strokeType="INSIDE" width="20.0" />
+        <Circle fx:id="ball" fill="DODGERBLUE" layoutX="350.0" layoutY="187.0" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+        <Button fx:id="startButton" layoutX="367.0" layoutY="254.0" mnemonicParsing="false" onAction="#startGame" text="Button" />
+      </children>
+    </Pane>
+  </children>
+</AnchorPane>

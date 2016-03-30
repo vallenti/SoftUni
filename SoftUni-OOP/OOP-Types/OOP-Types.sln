@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.GalacticGPS", "01.GalacticGPS\01.GalacticGPS.csproj", "{963096FE-CD28-43EF-B947-90B693276B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FractionCalculator", "02.FractionCalculator\02.FractionCalculator.csproj", "{68010C43-B186-4E9A-BCE9-812990A4AEF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GenericList", "03.GenericList\03.GenericList.csproj", "{6A89A9EB-05E0-4CD5-A116-2160456BB4D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DocX", "04.DocX\05.DocX.csproj", "{FE5E610F-58C5-4C65-A7EB-A8F38A4528F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{963096FE-CD28-43EF-B947-90B693276B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963096FE-CD28-43EF-B947-90B693276B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963096FE-CD28-43EF-B947-90B693276B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963096FE-CD28-43EF-B947-90B693276B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68010C43-B186-4E9A-BCE9-812990A4AEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68010C43-B186-4E9A-BCE9-812990A4AEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68010C43-B186-4E9A-BCE9-812990A4AEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68010C43-B186-4E9A-BCE9-812990A4AEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A89A9EB-05E0-4CD5-A116-2160456BB4D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A89A9EB-05E0-4CD5-A116-2160456BB4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A89A9EB-05E0-4CD5-A116-2160456BB4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A89A9EB-05E0-4CD5-A116-2160456BB4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5E610F-58C5-4C65-A7EB-A8F38A4528F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5E610F-58C5-4C65-A7EB-A8F38A4528F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5E610F-58C5-4C65-A7EB-A8F38A4528F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5E610F-58C5-4C65-A7EB-A8F38A4528F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

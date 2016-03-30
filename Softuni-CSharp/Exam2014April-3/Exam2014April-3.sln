@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work Hours", "Exam2014April-3\Work Hours.csproj", "{4F996E5F-6395-43C4-BF1E-3F11AE50ED51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfElements", "SumOfElements\SumOfElements.csproj", "{862F68E9-63CD-4DD8-BCB5-C269719AD27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New House", "New House\New House.csproj", "{D8E57ECA-DD91-44E0-8A12-D34ABB633C91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F996E5F-6395-43C4-BF1E-3F11AE50ED51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F996E5F-6395-43C4-BF1E-3F11AE50ED51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F996E5F-6395-43C4-BF1E-3F11AE50ED51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F996E5F-6395-43C4-BF1E-3F11AE50ED51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{862F68E9-63CD-4DD8-BCB5-C269719AD27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862F68E9-63CD-4DD8-BCB5-C269719AD27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862F68E9-63CD-4DD8-BCB5-C269719AD27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862F68E9-63CD-4DD8-BCB5-C269719AD27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E57ECA-DD91-44E0-8A12-D34ABB633C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E57ECA-DD91-44E0-8A12-D34ABB633C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E57ECA-DD91-44E0-8A12-D34ABB633C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E57ECA-DD91-44E0-8A12-D34ABB633C91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
